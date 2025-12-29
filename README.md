@@ -78,7 +78,7 @@ Video dokumentasi praktikum dapat diakses melalui melalui link berikut:
 ---
 
 ## 📄 Laporan Praktikum
-[Klik di sini](LAPORAN ADVANCE NETWORK SECURITY AND PROTOCOLS.pdf).
+[Klik di sini](LAPORAN_ADVANCE_NETWORK_SECURITY_AND_PROTOCOLS.pdf).
 
 ---
 
