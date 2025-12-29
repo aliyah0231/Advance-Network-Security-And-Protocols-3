@@ -64,6 +64,8 @@ Kedua mesin terhubung dalam satu jaringan virtual.
 
 ---
 
+## 🖼️ Dokumentasi Praktikum
+[Klik di sini](./dokumentasi)
 
 ---
 
@@ -71,19 +73,14 @@ Kedua mesin terhubung dalam satu jaringan virtual.
 Video dokumentasi praktikum dapat diakses melalui melalui link berikut:
 
 🔗 **Link Video:**  
-_(isi link Google Drive / YouTube di sini)_
+[Klik di sini](./video)
 
 ---
 
 ## 📄 Laporan Praktikum
-Laporan lengkap praktikum tersedia dalam format PDF pada `LAPORAN_ADVANCE_NETWORK_SECURITY_AND_PROTOCOLS`.
+[Klik di sini](./LAPORAN_ADVANCE_NETWORK_SECURITY_AND_PROTOCOLS).
 
 ---
-
-## 🖼️ Dokumentasi Praktikum
-Folder dokumentasi berisi gambar-gambar tahapan praktikum sebagai bukti pelaksanaan, mulai dari instalasi DVWA hingga simulasi serangan DoS.
-📁 **Link Folder Dokumentasi:**  
-`Dokumentasi`
 
 ## ⚠️ Catatan Etika
 > Seluruh pengujian dilakukan pada **lingkungan laboratorium tertutup**.  
