@@ -73,7 +73,7 @@ Kedua mesin terhubung dalam satu jaringan virtual.
 Video dokumentasi praktikum dapat diakses melalui melalui link berikut:
 
 🔗 **Link Video:**  
-[Klik di sini](./video)
+[Klik di sini](https://youtu.be/UdXGcHRyOUM?si=nAXf8LgVDZ8F5xJ1)
 
 ---
 
