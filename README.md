@@ -65,7 +65,7 @@ Kedua mesin terhubung dalam satu jaringan virtual.
 ---
 
 ## 🖼️ Dokumentasi Praktikum
-[Klik di sini](./dokumentasi)
+[Klik di sini](./Dokumentasi)
 
 ---
 
